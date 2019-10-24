@@ -1,0 +1,2 @@
+include ':app', ':project_temp1', ':map_temp2', ':map_temp3', ':map_temp4'
+rootProject.name='Map'
